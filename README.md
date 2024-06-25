@@ -7,3 +7,5 @@ Springer Genes and Genomics. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/3
 
 [Pawar, Shrikant, "Bioinformatics Techniques for Studying Drug Resistance In HIV and Staphylococcus Aureus." Dissertation, Georgia State University, 2019.
 doi: https://doi.org/10.57709/14306337](https://scholarworks.gsu.edu/biology_diss/216/)
+Georgia State University, Atlanta, USA
+https://csds.gsu.edu/
