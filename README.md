@@ -9,3 +9,4 @@ Springer Genes and Genomics. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/3
 doi: https://doi.org/10.57709/14306337](https://scholarworks.gsu.edu/biology_diss/216/)
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
+Spermine and oxacillin stress response on the cell wall synthesis and the global gene expression analysis in Methicillin-resistance Staphylococcus aureus, Shrikant Pawar, Xiangyu Yu and Dr. Chung-Dar Lu, Publication: Springer: Genes and Genomics (Publication date: January 10), collaboration with Dr. Chung-dar Lu, Georgia State University, Atlanta, USA Dissertation, IF=2.0. Github, Article link, [Cited times: 2]^^^ DOI: 10.1007/s13258-018-0735-8, Issue: 1, Volume: 41, Pages: 43-59.
